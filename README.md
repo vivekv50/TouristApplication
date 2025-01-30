@@ -1,4 +1,5 @@
-Project Title: Tourist Information Web Application (J2EE)
+Project Title: 
+Tourist Information Web Application (J2EE)
 Description:
 The Tourist Information Web Application is built using J2EE technologies to provide tourists with comprehensive information about popular destinations, accommodation, transportation, and local activities. The platform features multiple web pages, including a home page, destination details, accommodation listings, transportation options, and a contact page. Users can search for destinations, view detailed information, browse accommodation options, and plan their travel itinerary.
 
